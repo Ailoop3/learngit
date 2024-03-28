@@ -1,2 +1,4 @@
 fjfjf
 This is a text
+I'm fixing a bug.
+It's finished.
