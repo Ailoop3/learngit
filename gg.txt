@@ -1,9 +1,10 @@
 fjfjf
 HEAD
 The book is mine.
-gjgj
 This is a text
 This is a text
 I'm fixing a bug.
 It's finished.
-issue101
+I'm fixing a bug.
+It's finished.
+
